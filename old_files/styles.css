@@ -1,0 +1,31 @@
+#logo {
+    font-family: Baskerville;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+}
+
+#headshot {
+    height: 350px;
+}
+
+#header {
+    width: 70%;
+    height: auto;
+    background-color: aliceblue;
+    justify-self: center;
+}
+
+body {
+    background-image: url(images/beige-tiles/beige-tiles.png);
+    background-repeat: repeat;
+    display: grid;
+}
+
+.item {
+    grid-column-start: auto;
+    grid-column-end: auto;
+    grid-row-start: auto;
+    grid-row-end: auto;
+    justify-self: center;
+}
