@@ -1,2 +1,3 @@
-Still a work in progress.
-More to come in the following weeks!
+live repo of philbudiman.com (my personal website)
+
+built in angular 13
